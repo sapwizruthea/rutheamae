@@ -26,15 +26,15 @@
             <hr>
             <h3>Work Experience</h3>
             <b style="word-spacing: 100px; margin-left:15px;">Dates Work</b>
-            <p>2021-present <span style="position:absolute; left: 130px;">Assistant Secretary of DR. Jacel P. Rosales, MD, FPOGS</span> </p> 
+            <p>2021-2022 present <span style="position:absolute; left: 130px;">Assistant Secretary of DR. Jacel P. Rosales, MD, FPOGS</span> </p> 
 
         </div>
         <div class="skills">
             <hr>
             <h3>Skills</h3>
-            <p> Computer Literate ">&#11088;&#11088; </p>
-            <p>Editing <span style="position:absolute; left: 130px;"> &#11088;&#11088; </span> </p>
-            <p>Photoshop <span style="position:absolute; left: 130px;"> &#11088;&#11088;&#11088;</span></p>
+            <p> Computer Literate &#11088;&#11088; </p>
+            <p>Editing <span style="position:absolute; :"> &#11088;&#11088; </span> </p>
+            <p>Photoshop <span style="position:absolute;"> &#11088;&#11088;&#11088;</span></p>
         </div>
         <div>
             <hr>
